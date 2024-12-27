@@ -1,0 +1,17 @@
+Update 2.0.0
+
+- Revmoved Options menu buttons
+- Removed Oringnal Main Screen
+- Revmoved Controls screen background
+- Added Changelog
+- Added New Mods
+- Created New GUI
+- Added More Images to the Slideshow
+- Bug Fixes
+- Made the Download Center Work
+- Remove Language, Asseablily Options, Create Mod Button and Replay Mod Button
+- Created Custom Logo
+- Removed "Fetured Servers" on the server list
+- Added New Bioems (byg)
+- Added Icons for buttons
+- Added Clock
