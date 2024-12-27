@@ -14,13 +14,15 @@
     {
       "id": "1.1.0",
       "releasedAt": 1
-    },
-      {
-      "id": "2.0.0",
-      "releasedAt": 1735278363699
-                "promotions": {
+    {
+        "id": "2.0.0",
+        "releasedAt": 209384093820,
+        "promotions": {
             "downloads": {
-                "generic": "https://google.com"
+                "modrinth": "https://example.com/",
+                "curseforge": "https://example.com/",
+                "generic": "https://example.com/"
             }
+        }
     }
 }
