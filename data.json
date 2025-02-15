@@ -1,12 +1,16 @@
 {
     "News":{
-        "Enabled":true,
         "type":"HTML WEBSITE",
-        "raw":"",
+        "raw":"https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/news.html",
         "Date":"well idk"
     },
     "Screenshots":{
-        "Data":["https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/3.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/svg.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/4.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/3.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/5.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/8.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/7.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/6.svg"]
+        "raw":["https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/3.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/svg.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/4.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/3.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/5.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/8.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/7.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/6.svg"]
     },
-    "version":"1.5.3"
+    "config":{
+        "version":"1.5.3"
+        "NewsEnabled":true,
+        "ScreenshotsEnabled":true,
+        "UpdatorEnabled":false,
+    }
 }
