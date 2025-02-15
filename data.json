@@ -8,9 +8,9 @@
         "raw":["https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/3.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/svg.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/4.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/3.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/5.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/8.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/7.svg","https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/screenshots/6.svg"]
     },
     "config":{
-        "version":"1.5.3"
-        "NewsEnabled":true,
-        "ScreenshotsEnabled":true,
+        "version":"1.5.3",
+        "NewsEnabled":true,,
+        "ScreenshotsEnabled":true,,
         "UpdatorEnabled":false,
     }
 }
