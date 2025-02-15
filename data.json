@@ -9,8 +9,8 @@
     },
     "config":{
         "version":"1.5.3",
-        "NewsEnabled":true,,
-        "ScreenshotsEnabled":true,,
-        "UpdatorEnabled":false,
+        "NewsEnabled":true,
+        "ScreenshotsEnabled":true,
+        "UpdatorEnabled":false
     }
 }
