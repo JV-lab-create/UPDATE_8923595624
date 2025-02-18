@@ -20,10 +20,16 @@
         "Support":"https://www.roblox.com/games/6275532991/Staff-pass-Elevator-Testing-OFFICIAL"
     },
     "Apps":{
-        "test":{
+        "example":{
             "type":"Scratch embed",
             "link":"https://scratch.mit.edu/projects/1061045872/embed",
-            "name":"test",
+            "name":"Strange modded Otis...",
+            "color":"#1d00ff"
+        },
+            "dover":{
+            "type":"Scratch embed",
+            "link":"https://scratch.mit.edu/projects/590184236/embed",
+            "name":"Dover Impulse modernized by Crest Lifts but it still feels like a Dover Impulse",
             "color":"#1d00ff"
         }
     }
