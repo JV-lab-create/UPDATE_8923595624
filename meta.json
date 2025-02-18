@@ -23,7 +23,8 @@
         "test":{
             "type":"Scratch embed",
             "link":"https://scratch.mit.edu/projects/1061045872/embed",
-            "name":"test"
+            "name":"test",
+            "color":"#1d00ff"
         }
     }
 }
