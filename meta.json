@@ -21,7 +21,7 @@
     },
     "Apps":{
         "test":{
-            "type":"Scratch Enbed",
+            "type":"Scratch embed",
             "link":"https://scratch.mit.edu/projects/1061045872/embed",
             "name":"test"
         }
