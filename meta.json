@@ -20,7 +20,7 @@
         "Support":"https://www.roblox.com/games/6275532991/Staff-pass-Elevator-Testing-OFFICIAL"
     },
     "Apps":{
-        "example":{
+        "otis":{
             "type":"Scratch embed",
             "link":"https://scratch.mit.edu/projects/1061045872/embed",
             "name":"Strange modded Otis...",
@@ -36,6 +36,18 @@
             "type":"Scratch embed",
             "link":"https://scratch.mit.edu/projects/808318423/embed",
             "name":"A glass 1984 Schindler Miconic, because why not?",
+            "color":"#1d00ff"
+        },
+            "kone1":{
+            "type":"Scratch embed",
+            "link":"https://scratch.mit.edu/projects/258425197/embed",
+            "name":"Random 3rd Gen KONE EcoDisc Elevator at a Random Building in a Random Place",
+            "color":"#1d00ff"
+        },
+            "kone2":{
+            "type":"Scratch embed",
+            "link":"https://scratch.mit.edu/projects/417788841/embed",
+            "name":"KONE EcoDisc elevator ride V8.2",
             "color":"#1d00ff"
         }
     }
