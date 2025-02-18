@@ -26,10 +26,16 @@
             "name":"Strange modded Otis...",
             "color":"#1d00ff"
         },
-            "dover":{
+        "dover":{
             "type":"Scratch embed",
             "link":"https://scratch.mit.edu/projects/590184236/embed",
             "name":"Dover Impulse modernized by Crest Lifts but it still feels like a Dover Impulse",
+            "color":"#1d00ff"
+        },
+        "schindler":{
+            "type":"Scratch embed",
+            "link":"https://scratch.mit.edu/projects/808318423/embed",
+            "name":"A glass 1984 Schindler Miconic, because why not?",
             "color":"#1d00ff"
         }
     }
